@@ -1,0 +1,54 @@
+body{
+    background-color: #aaeeee;
+}
+
+.message, .label{
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif; 
+    margin-bottom: 30px;
+}
+
+
+.card {
+    width: 90vw;
+    min-width: 500px;
+    max-width: 1200px;
+    margin: 10px auto;
+    padding: 20px;
+}
+
+#start, #end{
+    width: 90vw;
+}
+
+#task{
+    width: 90vw;
+    display:flex;
+}
+
+.task-content{
+    width: 45vw;
+    height: 80vw;
+    margin: 10px;
+    padding: 20px;
+    background-color:#FFFFFF;
+
+    font-size: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
+}
+
+
+
+.setting_group{
+    
+    h1{
+        font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
+    }
+
+}
+
+#start_setting{
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
+}
+
